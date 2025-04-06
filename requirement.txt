@@ -1,6 +1,0 @@
-streamlit
-sklearn
-fuzzywuzzy
-distance
-beautifulsoup4
-bs4
